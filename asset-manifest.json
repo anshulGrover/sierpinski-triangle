@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sierpinski-triangle/static/css/main.f1168328.css",
+    "main.js": "/sierpinski-triangle/static/js/main.97d5f240.js",
+    "static/js/787.09143c1a.chunk.js": "/sierpinski-triangle/static/js/787.09143c1a.chunk.js",
+    "index.html": "/sierpinski-triangle/index.html",
+    "main.f1168328.css.map": "/sierpinski-triangle/static/css/main.f1168328.css.map",
+    "main.97d5f240.js.map": "/sierpinski-triangle/static/js/main.97d5f240.js.map",
+    "787.09143c1a.chunk.js.map": "/sierpinski-triangle/static/js/787.09143c1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1168328.css",
+    "static/js/main.97d5f240.js"
+  ]
+}
