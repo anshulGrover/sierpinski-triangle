@@ -37,10 +37,13 @@ const App = () => {
 
   const startGenerating = () => {
     setStart(true)
+    setValue({
+      depth: 1,
+      color: '#ff0000'
+    })
     const myInterval = setInterval(() => {
 
       setValue(prevValue => { return { depth: prevValue.depth + 1, color: prevValue.color } })
-      setDepth(prevDepth => prevDepth + 1);
     }, 3000)
     setIntervalId(myInterval)
 
@@ -77,7 +80,7 @@ const App = () => {
         <div className="value-button" id="increase" onClick={increaseDepth}>+</div>
       </div>
       <div className='buttonContainer'>
-        <button onClick={onsubmit} className="button-82-pushable" role="button">
+        <button disabled={depth>9} onClick={onsubmit} className="button-82-pushable" role="button">
           <span className="button-82-shadow"></span>
           <span className="button-82-edge"></span>
           <span className="button-82-front text">

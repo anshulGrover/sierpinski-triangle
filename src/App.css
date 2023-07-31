@@ -207,3 +207,9 @@ align-items: center;
 .buttonContainer{
   margin-bottom: 30px;
 }
+.button-82-pushable:disabled{
+  cursor: not-allowed;
+}
+.button-82-pushable:disabled .button-82-front,.button-82-pushable:disabled .button-82-edge,.button-82-pushable:disabled .button-82-shadow{
+  background: gray;
+}
