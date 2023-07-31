@@ -72,6 +72,7 @@ const App = () => {
     <div className="app-container">
       <h1>Sierpinski Triangle Visualization (Max Depth 9)</h1>
       <p>Maximum Depth of this application is 9. As above that call size exceed of the browser. This can also be resolved with more optimised code.</p>
+      <p>Start Generating without Properties will start creating triangle from depth 1 and depth will continue to increase after every 3 seconds untill user stops.</p>
       <ColorPicker disabled={start} color={color} onChange={handleColorChange} />
       <div className='depthContainer'>
         <label>Depth:</label>
