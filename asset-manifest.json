@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sierpinski-triangle/static/css/main.f1168328.css",
-    "main.js": "/sierpinski-triangle/static/js/main.97d5f240.js",
+    "main.css": "/sierpinski-triangle/static/css/main.2ff8630a.css",
+    "main.js": "/sierpinski-triangle/static/js/main.8e03462d.js",
     "static/js/787.09143c1a.chunk.js": "/sierpinski-triangle/static/js/787.09143c1a.chunk.js",
     "index.html": "/sierpinski-triangle/index.html",
-    "main.f1168328.css.map": "/sierpinski-triangle/static/css/main.f1168328.css.map",
-    "main.97d5f240.js.map": "/sierpinski-triangle/static/js/main.97d5f240.js.map",
+    "main.2ff8630a.css.map": "/sierpinski-triangle/static/css/main.2ff8630a.css.map",
+    "main.8e03462d.js.map": "/sierpinski-triangle/static/js/main.8e03462d.js.map",
     "787.09143c1a.chunk.js.map": "/sierpinski-triangle/static/js/787.09143c1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1168328.css",
-    "static/js/main.97d5f240.js"
+    "static/css/main.2ff8630a.css",
+    "static/js/main.8e03462d.js"
   ]
 }
